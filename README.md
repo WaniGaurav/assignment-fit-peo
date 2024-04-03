@@ -6,7 +6,7 @@
 <div align="center">
   <h3>
     
-    <a href="">
+    <a href="https://dashboard-asnmt-ftpr.netlify.app/">
       Solution
     </a>
   </h3>
@@ -51,12 +51,12 @@
 - CSS
 - Netlify
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/601be770-739e-4b14-8239-d4309ce66232/deploy-status)](https://app.netlify.com/sites/portfolio-devch-gw/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/018eb929-f7d7-4776-b402-5302cddfd796/deploy-status)](https://app.netlify.com/sites/dashboard-asnmt-ftpr/deploys)
 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/WaniGaurav/portfolio-devChallenges-gw
+$ git clone https://github.com/WaniGaurav/assignment-fit-peo
 
 # Install dependencies
 $ npm install
@@ -68,5 +68,5 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://dashboard-asnmt-ftpr.netlify.app/)
 - GitHub [@WaniGaurav](https://github.com/WaniGaurav)

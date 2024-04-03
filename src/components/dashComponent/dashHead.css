@@ -1,0 +1,25 @@
+.header-container{
+    padding: 0.7rem;
+    display: flex;
+    justify-content: space-between;
+}
+.header-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.hi-emoji{
+    font-size: x-large;
+}
+.head-serch-contnr{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+.head-search{
+    font-size: small;
+}
+.head-search-input{
+    border: 0;
+}

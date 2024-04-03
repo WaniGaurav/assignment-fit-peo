@@ -1,3 +1,11 @@
+/* dashboard-container */
+
+.dashboard-container{
+    min-width: fit-content;
+}
+
+/* dashboard-container END */
+
 /* card-container start */
 .card-container{
     --min-col-size: 15rem;
@@ -59,6 +67,12 @@
 
 /* graph-container start */
 
+.graph-container{
+    margin: 3rem 0 0 0;
+    display: flex;
+    height: 20rem;
+}
+
 .options{
     display: flex;
     justify-content: space-between;
@@ -86,5 +100,16 @@
     border-radius: 30px;
     background-color: #d5d5d575;
 }
-
+.bar-container{
+    margin: 0 2rem 0 0;
+    width: 50rem;
+}
 /* graph-container END */
+
+/* pie-container start */
+
+.pie-container{
+    width: 20rem;
+}
+
+/* pie-container END */

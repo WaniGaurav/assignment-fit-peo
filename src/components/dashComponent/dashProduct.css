@@ -1,0 +1,79 @@
+.dashboard-prod-container{
+    height: 35rem;
+    padding: 1rem;
+
+}
+
+.flexClass{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flexColCenter{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.mar-gap{
+    margin: 4rem 0 0 0;
+    gap: 2rem;
+}
+.mar-sub{
+    margin: 2rem 0 0 0;
+}
+.product-headline{
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.flexContainer{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.search-bar{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border-radius:10px;
+}
+.input-search{
+    color: black;
+    width: 5rem;
+    padding: 5px;
+    border: 0;   
+}
+.prod-flex{
+    display: flex;
+    justify-content: left;
+    gap: 1rem;
+    margin: 2rem 0 0 0;
+}
+.prod-img{
+    height: 2.6rem;
+    width: 3.5rem;
+    border-radius: 10px;
+}
+.prod-title{
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+.prod-desc{
+    color: gray;
+}
+.val2-bold{
+    font-weight: bolder;
+}
+.sasles-money{
+    width: 19rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+.sasles-money-val{
+    width: 18rem;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
